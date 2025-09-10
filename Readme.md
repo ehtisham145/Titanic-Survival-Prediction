@@ -20,7 +20,7 @@ Pandas & NumPy (Data Analysis)
 
 Matplotlib & Seaborn (Data Visualization)
 
-Scikit-learn (Machine Learning Models)
+Scikit-Learn (Machine Learning Models)
 
 Jupyter Notebook / VS Code (Development Environment)
 
